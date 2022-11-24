@@ -8,5 +8,6 @@ Currently I'm wrapping up with my data analytics course with Masterschool.
 Still got a long way to go.
 
 ##Find me elsewhere 🌏
-[![LinkedIn](https://www.linkedin.com/in/ashikabaraily/)]
+
+[LinkedIn](https://www.linkedin.com/in/ashikabaraily/)
 
